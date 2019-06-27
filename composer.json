@@ -1,5 +1,6 @@
 {
     "name": "gotys/passport",
+    "version": "dev-gp",
     "description": "Laravel Passport provides OAuth2 server support to Laravel.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
