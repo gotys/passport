@@ -1,5 +1,5 @@
 {
-    "name": "laravel/passport",
+    "name": "gotys/passport",
     "description": "Laravel Passport provides OAuth2 server support to Laravel.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Petr Gottvald",
+            "email": "gottvald@gmail.com"
         }
     ],
     "require": {
