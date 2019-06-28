@@ -2,7 +2,7 @@
 
 namespace Laravel\Passport;
 
-use Illuminate\Database\Eloquent\Model;
+use Gotys\gpMongo\gpMongo as Model;
 
 class Token extends Model
 {
